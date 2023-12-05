@@ -14,6 +14,11 @@
 ![Static Badge](https://img.shields.io/badge/numpy-t?style=flat-square&logo=numpy&logoColor=white&labelColor=%23013243&color=%23013243)
 ![Static Badge](https://img.shields.io/badge/pandas-t?style=flat-square&logo=pandas&logoColor=white&labelColor=%23150458&color=%23150458)
 ![Static Badge](https://img.shields.io/badge/PostgreSql-t?style=flat-square&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1)
+![Static Badge](https://img.shields.io/badge/PyTorch-t?style=flat-square&logo=pytorch&logoColor=white&labelColor=%23EE4C2C&color=%23EE4C2C)
+![Static Badge](https://img.shields.io/badge/OpenCV-t?style=flat-square&logo=opencv&logoColor=white&labelColor=%235C3EE8&color=%235C3EE8)
+![Static Badge](https://img.shields.io/badge/Keras-t?style=flat-square&logo=keras&logoColor=white&labelColor=%23D00000&color=%23D00000)
+![Static Badge](https://img.shields.io/badge/Tensorflow-t?style=flat-square&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00)
+
 
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
