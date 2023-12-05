@@ -35,7 +35,6 @@
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-📝 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [AR-PiZero — Augmented Reality for IoT](https://medium.datadriveninvestor.com/ar-pizero-augmented-reality-for-iot-1210062198c0?source=rss-cda09a7745f1------2)
-<!-- BLOG-POST-LIST:END -->
+📝 &nbsp;**Passed courses**
+- [Statisticks on Stepik](https://stepik.org/cert/2188316](https://stepik.org/cert/2188316)https://stepik.org/cert/2188316)
+
