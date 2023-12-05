@@ -8,7 +8,7 @@
 
 :wave: Hello! I am a ML Engineer and a Data Scientist. TODO TODO TODO
 
-</div>
+<div></div>
 ### 💻 Technology stack:
 
 
