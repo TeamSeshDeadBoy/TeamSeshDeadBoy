@@ -10,8 +10,8 @@
 
 
 ### 💻 Technology stack:
-![Static Badge](https://img.shields.io/badge/scikit--learn-t?style=flat-square&logo=scikitlearn&logoColor=black&labelColor=%23F7931E&color=%23F7931E&link=https%3A%2F%2Ft.me%2Fayyoshiii)
-![Static Badge](https://img.shields.io/badge/numpy-t?style=flat-square&logo=numpy&logoColor=black&labelColor=%23013243&color=%23013243)
+![Static Badge](https://img.shields.io/badge/scikit--learn-t?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=%23F7931E&color=%23F7931E&link=https%3A%2F%2Ft.me%2Fayyoshiii)
+![Static Badge](https://img.shields.io/badge/numpy-t?style=flat-square&logo=numpy&logoColor=white&labelColor=%23013243&color=%23013243)
 ![Static Badge](https://img.shields.io/badge/pandas-t?style=flat-square&logo=pandas&logoColor=white&labelColor=%23150458&color=%23150458)
 ![Static Badge](https://img.shields.io/badge/PostgreSql-t?style=flat-square&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1)
 
