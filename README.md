@@ -2,8 +2,8 @@
 ### Socials:
 [![LeetCode user teamseshdeadboy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fteamseshdeadboy&logo=leetcode&logoColor=yellow)](https://leetcode.com/teamseshdeadboy/)
 [![Telegram](https://img.shields.io/badge/%40ayyoshiii-t?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2326A5E4&link=https%3A%2F%2Ft.me%2Fayyoshiii)](https://t.me/ayyoshiii)
-[![Static Badge](https://img.shields.io/badge/stepan__leb%40mail.ru-t?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&labelColor=black&color=%23005FF9)]
-[![Static Badge](https://img.shields.io/badge/ayyoshii-t?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=black&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Fayyoshii)](https://www.kaggle.com/ayyoshii)
+![Static Badge](https://img.shields.io/badge/stepan__leb%40mail.ru-t?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&labelColor=black&color=%23005FF9)
+[![Kaggle](https://img.shields.io/badge/ayyoshii-t?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=black&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Fayyoshii)](https://www.kaggle.com/ayyoshii)
 
 
 
