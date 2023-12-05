@@ -8,8 +8,9 @@
 
 :wave: Hello! I am a ML Engineer and a Data Scientist. TODO TODO TODO
 
-    </details>
 </div>
+### 💻 Technology stack:
+
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
