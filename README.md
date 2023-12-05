@@ -4,6 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/%40ayyoshiii-t?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2326A5E4&link=https%3A%2F%2Ft.me%2Fayyoshiii)
 ![Static Badge](https://img.shields.io/badge/stepan__leb%40mail.ru-t?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&labelColor=black&color=%23005FF9)
 ![Static Badge](https://img.shields.io/badge/ayyoshii-t?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=black&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Fayyoshii)
+![Static Badge](https://img.shields.io/badge/ayyyoshii-t?style=social&link=https%3A%2F%2Ft.me%2Fayyoshiii)
 
 :wave: Hello! I'm founder of [@hackclubnmit](https://github.com/hackclubnmit) and love building softwares, automating my workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), developing algo-trading scripts, managing my entire life on Notion and reading a lot of newsletters on system design choices of big techs. From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. Following best practices early on is the way to go and I'm a huge supporter of it.
 
