@@ -36,5 +36,5 @@
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 📝 &nbsp;**Passed courses**
-- [Statisticks on Stepik](https://stepik.org/cert/2188316](https://stepik.org/cert/2188316)https://stepik.org/cert/2188316)
+- [Statisticks on Stepik](https://stepik.org/cert/2188316)
 
