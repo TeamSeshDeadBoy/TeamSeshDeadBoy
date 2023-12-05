@@ -19,7 +19,10 @@
 ![Static Badge](https://img.shields.io/badge/Keras-t?style=flat-square&logo=keras&logoColor=white&labelColor=%23D00000&color=%23D00000)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-t?style=flat-square&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00)
 
-
+### Repository table:
+| Category | Repos|
+| EDA | * |
+| Math | * |
 
 📝 &nbsp;**Passed courses**
 - [Statisticks on Stepik](https://stepik.org/cert/2188316)
