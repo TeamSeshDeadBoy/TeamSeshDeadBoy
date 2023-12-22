@@ -20,10 +20,10 @@
 ![Static Badge](https://img.shields.io/badge/Tensorflow-t?style=flat-square&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00)
 
 ### Repository table:
-| Category |   Repos  |
-|----------|----------|
-| EDA | * |
-| Math | * |
+| Category |   Repos  | Link (if exists) |
+|----------|----------|------------------|
+| EDA | * | * |
+| Math | * | * |
 
 📝 &nbsp;**Passed courses**
 - [Statisticks on Stepik](https://stepik.org/cert/2188316)
