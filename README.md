@@ -22,7 +22,7 @@
 ### Repository table:
 | Tags |   Repos  | Link (if exists) |
 |----------|----------|------------------|
-| EDA, Statistics, A/B | * | * |
+| EDA, Statistics, A/B | [Hypothesis Testing](https://github.com/TeamSeshDeadBoy/MTech_Stepan_Lebedev) | [Streamlit](https://mtech-lebedev-ds.streamlit.app) |
 |  | * | * |
 | Math | * | * |
 
