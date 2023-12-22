@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/Tensorflow-t?style=flat-square&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00)
 
 ### Repository table:
-| Tags |   Repos  | Link (if exists) |
+| Tags |   Repos  | Deployment (if exists) |
 |----------|----------|------------------|
 | EDA, Statistics, A/B | [Hypothesis Testing](https://github.com/TeamSeshDeadBoy/MTech_Stepan_Lebedev) | [Streamlit](https://mtech-lebedev-ds.streamlit.app) |
 |  | * | * |
