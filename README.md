@@ -23,6 +23,7 @@
 | Category |   Repos  | Link (if exists) |
 |----------|----------|------------------|
 | EDA | * | * |
+|  | * | * |
 | Math | * | * |
 
 📝 &nbsp;**Passed courses**
