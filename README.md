@@ -28,6 +28,6 @@
 
 📝 &nbsp;**Passed courses**
 - [Statisticks on Stepik](https://stepik.org/cert/2188316)
-- [Neural Networks and Deep Learning](https://coursera.org/share/63e9c8fe4356646f7cd4571d79b18514)
+- [Coursera: Neural Networks and Deep Learning](https://coursera.org/share/63e9c8fe4356646f7cd4571d79b18514)
 - [Coursera: Improving Deep Neural Networks: Hyperparameter
 Tuning, Regularization and Optimization](https://coursera.org/share/bb39ced00a247ed3efba0260548118f9)
