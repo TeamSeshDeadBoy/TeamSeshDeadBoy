@@ -28,4 +28,4 @@
 
 📝 &nbsp;**Passed courses**
 - [Statisticks on Stepik](https://stepik.org/cert/2188316)
-
+- https://coursera.org/share/bb39ced00a247ed3efba0260548118f9
