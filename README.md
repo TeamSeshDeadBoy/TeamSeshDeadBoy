@@ -29,7 +29,7 @@
 📝 &nbsp;**Passed courses**
 - [**Stepik**: Statisticks](https://stepik.org/cert/2188316)
 - [**Coursera**: Neural Networks and Deep Learning](https://coursera.org/share/63e9c8fe4356646f7cd4571d79b18514)
-- [**Coursera**: Improving Deep Neural Networks: Hyperparameter
-Tuning, Regularization and Optimization](https://coursera.org/share/bb39ced00a247ed3efba0260548118f9)
+- [**Coursera**: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/bb39ced00a247ed3efba0260548118f9)
 - [**Coursera**: Structuring Machine Learning Projects](https://coursera.org/share/bb39ced00a247ed3efba0260548118f9](https://coursera.org/share/fd1013b5f8360ba4d02b8b858554fc75)https://coursera.org/share/fd1013b5f8360ba4d02b8b858554fc75)
 - [**Coursera**: Convolutional Neural Networks](https://coursera.org/share/bb39ced00a247ed3efba0260548118f9](https://coursera.org/share/fd1013b5f8360ba4d02b8b858554fc75)https://coursera.org/share/fd1013b5f8360ba4d02b8b858554fc75](https://coursera.org/share/5dab022f436d6193c476f8e7d9a86c2d)https://coursera.org/share/5dab022f436d6193c476f8e7d9a86c2d)
+- [**Coursera**: Deep Learning Specialization](https://coursera.org/share/e8617a0ad64817716b7fc5b182c56853)
