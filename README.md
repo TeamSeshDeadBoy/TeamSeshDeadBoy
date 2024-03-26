@@ -1,5 +1,6 @@
 # 👨🏻‍💻 Stepan Lebedev
 ### Socials:
+[![wakatime](https://wakatime.com/badge/user/eafdbba4-cec2-4c99-8cd5-5fc36bb00274.svg)](https://wakatime.com/@018e7ad8-bbd4-45a3-8894-ee681e704674)
 [![LeetCode user teamseshdeadboy](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fteamseshdeadboy&logo=leetcode&logoColor=yellow)](https://leetcode.com/teamseshdeadboy/)
 [![Telegram](https://img.shields.io/badge/telegram-t?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&labelColor=black&color=%2326A5E4&link=https%3A%2F%2Ft.me%2Fayyoshiii)](https://t.me/ayyoshiii)
 ![Static Badge](https://img.shields.io/badge/stepan__leb%40mail.ru-t?style=for-the-badge&logo=maildotru&logoColor=%23005FF9&labelColor=black&color=%23005FF9)
