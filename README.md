@@ -18,8 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/pandas-t?style=flat-square&logo=pandas&logoColor=white&labelColor=%23150458&color=%23150458)
 ![Static Badge](https://img.shields.io/badge/PostgreSql-t?style=flat-square&logo=postgresql&logoColor=white&labelColor=%234169E1&color=%234169E1)
 ![Static Badge](https://img.shields.io/badge/Docker-t?style=flat-square&logo=docker&logoColor=white&labelColor=%231D63ED&color=%231D63ED)
-#### *Additional* ->
-![Static Badge](https://img.shields.io/badge/Keras-t?style=flat-square&logo=keras&logoColor=white&labelColor=%23D00000&color=%23D00000)
+#### *Additional* -> ![Static Badge](https://img.shields.io/badge/Keras-t?style=flat-square&logo=keras&logoColor=white&labelColor=%23D00000&color=%23D00000)
 ![Static Badge](https://img.shields.io/badge/Tensorflow-t?style=flat-square&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00)
 
 ### Repository table:
