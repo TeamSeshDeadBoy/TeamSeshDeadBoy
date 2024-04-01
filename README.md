@@ -28,6 +28,7 @@
 |----------|----------|------------------|
 | EDA, Statistics, A/B | [Hypothesis Testing](https://github.com/TeamSeshDeadBoy/MTech_Stepan_Lebedev) | [Streamlit](https://mtech-lebedev-ds.streamlit.app) |
 | Image Generation, Docker, FastApi | [StyleTransfer](https://github.com/TeamSeshDeadBoy/StyleTransferSystem) | [TgBot](https://t.me/stylizeimg_bot) ~~down~~ |
+| PyTorch, ProGAN, WGAN | [GAN-PyTorch](https://github.com/TeamSeshDeadBoy/GAN-PyTorch) | -- |
 |  | * | * |
 | Math | * | * |
 
