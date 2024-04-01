@@ -24,13 +24,13 @@
 ![Static Badge](https://img.shields.io/badge/Tensorflow-t?style=flat-square&logo=tensorflow&logoColor=white&labelColor=%23FF6F00&color=%23FF6F00)
 
 ### :robot: Projects table:
-| Stack / Tags |   Repos  | Deployment (if exists) |
-|----------|----------|------------------|
-| EDA, Statistics, A/B | [Hypothesis Testing](https://github.com/TeamSeshDeadBoy/MTech_Stepan_Lebedev) | [Streamlit](https://mtech-lebedev-ds.streamlit.app) |
-| Image Generation, Docker, FastApi | [StyleTransfer](https://github.com/TeamSeshDeadBoy/StyleTransferSystem) | [TgBot](https://t.me/stylizeimg_bot) ~~down~~ |
-| PyTorch, ProGAN, WGAN | [GAN-PyTorch](https://github.com/TeamSeshDeadBoy/GAN-PyTorch) | -- |
-|  | * | * |
-| Math | * | * |
+| Name | Stack / Tags |   Repos  | Deployment (if exists) |
+|----------|----------|----------|------------------|
+| Statistical Hypothesis testing | EDA, Statistics, A/B | [Hypothesis Testing](https://github.com/TeamSeshDeadBoy/MTech_Stepan_Lebedev) | [Streamlit](https://mtech-lebedev-ds.streamlit.app) |
+| Photomaker Bot| Image Generation, Docker, FastApi | [StyleTransfer](https://github.com/TeamSeshDeadBoy/StyleTransferSystem) | [TgBot](https://t.me/stylizeimg_bot) ~~down~~ |
+| PokeGAN - Pokemon images generation| PyTorch, ProGAN, WGAN | [GAN-PyTorch](https://github.com/TeamSeshDeadBoy/GAN-PyTorch) | -- |
+| * | * | * | * |
+| * | * | * | * |
 
 📝 &nbsp;**Passed courses**
 - [**Stepik**: Statisticks](https://stepik.org/cert/2188316)
