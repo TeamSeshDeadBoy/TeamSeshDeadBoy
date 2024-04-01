@@ -7,7 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-t?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=black&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Fayyoshii)](https://www.kaggle.com/ayyoshii)
 
 
-:wave: Hello! I am a ML Engineer and a Data Scientist. Eager to learn, thrive and solve. Having interest in CV problems \ GAN's \ Image - Audio generation algorythms. Open for work
+:wave: Hello! I am a ML Engineer and a Data Scientist. Eager to learn, thrive and solve. Having interest in CV problems \ GAN's \ Image - Audio - txt generation algorythms. Open for work
 
 
 ### 💻 Technology stack:
