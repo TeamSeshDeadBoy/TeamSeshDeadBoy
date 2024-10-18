@@ -7,7 +7,7 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-t?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF&labelColor=black&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Fayyoshii)](https://www.kaggle.com/ayyoshii)
 
 
-:wave: Hello! I am an ML Engineer. Currently working in @SBER as an MLE (NLP).
+:wave: Hello! I am an ML Engineer. Currently working as an MLE (NLP).
 
 
 ### 💻 Technology stack:
